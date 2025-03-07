@@ -44,7 +44,7 @@ const featuresData: Feature[] = [
     ),
     title: "Reliable and Secure Services",
     paragraph:
-      "Our services are built on secure and reliable foundations to ensure your business operations run smoothly without disruption or compromise.",
+      "Our Services are built on secure and reliable foundations to ensure your business operations run smoothly without disruption or compromise.",
   },
   {
     id: 1,

@@ -3,23 +3,23 @@ import { Blog } from "@/types/blog";
 const blogData: Blog[] = [
   {
     id: 1,
-    title: "Best UI components for modern websites",
+    title: "Enhanced Cybersecurity for Modern Businesses",
     paragraph:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
+      "🔒 Protect your business with penetration testing, risk assessments, and multi-layered security solutions designed to prevent cyber threats.",
     image: "/images/blog/blog-01.jpg",
     author: {
-      name: "Samuyl Joshi",
-      image: "/images/blog/author-01.png",
-      designation: "Graphic Designer",
+      name: "Emilia Gette",
+      image: "/images/blog/I  conduck.png",
+      designation: "marketing associate",
     },
     tags: ["creative"],
-    publishDate: "2025",
+    publishDate: "2020",
   },
   {
     id: 2,
-    title: "9 simple ways to improve your design skills",
+    title: "Cloud Solutions for Businesses",
     paragraph:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
+      "☁️ Optimize performance, scalability, and security with advanced cloud migration, hybrid cloud, and backup strategies for modern enterprises.",
     image: "/images/blog/blog-02.jpg",
     author: {
       name: "Musharof Chy",
@@ -31,9 +31,9 @@ const blogData: Blog[] = [
   },
   {
     id: 3,
-    title: "Tips to quickly improve your coding speed.",
+    title: "Building a Robust IT Infrastructure for Growth",
     paragraph:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
+      "🖥 Ensure business continuity and efficiency with expert IT consulting, network design, and high-performance hardware solutions.",
     image: "/images/blog/blog-03.jpg",
     author: {
       name: "Lethium Deo",

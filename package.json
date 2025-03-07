@@ -1,11 +1,11 @@
 {
-  "name": "startup-nextjs-template",
+  "name": "terralogic-africa-limited",
   "version": "2.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
+    "export": "next export",
     "lint": "next lint"
   },
   "dependencies": {

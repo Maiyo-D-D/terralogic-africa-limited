@@ -6,7 +6,7 @@ import { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Blog Page | Free Next.js Template for Startup and SaaS",
-  description: "This is Blog Page for Startup Nextjs Template",
+  description: "This is Blog Page for Terrarlogic Africa Limited",
   // other metadata
 };
 
@@ -14,8 +14,8 @@ const Blog = () => {
   return (
     <>
       <Breadcrumb
-        pageName="Blog Grid"
-        description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. In varius eros eget sapien consectetur ultrices. Ut quis dapibus libero."
+        pageName="Latest Blog Posts"
+        description="Explore insights, trends, and expert advice on technology, cybersecurity, cloud solutions, and IT innovations. Stay informed with our latest updates and industry perspectives."
       />
 
       <section className="pb-[120px] pt-[120px]">

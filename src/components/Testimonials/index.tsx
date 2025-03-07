@@ -5,29 +5,29 @@ import SingleTestimonial from "./SingleTestimonial";
 const testimonialData: Testimonial[] = [
   {
     id: 1,
-    name: "Musharof Chy",
-    designation: "Founder @TailGrids",
+    name: "----------",
+    designation: "----------",
     content:
-      "Our members are so impressed. It's intuitive. It's clean. It's distraction free. If you're building a community.",
-    image: "/images/testimonials/auth-01.png",
+      "Our clients love how seamless and efficient our solutions are. They are intuitive, scalable, and designed to help businesses thrive in the digital age.",
+    image: "",
     star: 5,
   },
   {
     id: 2,
-    name: "Devid Weilium",
-    designation: "Founder @UIdeck",
+    name: "----------",
+    designation: "----------",
     content:
-      "Our members are so impressed. It's intuitive. It's clean. It's distraction free. If you're building a community.",
-    image: "/images/testimonials/auth-02.png",
+      "We focus on delivering secure, high-performance technology solutions. Our commitment to innovation ensures businesses stay ahead of the curve.",
+    image: "",
     star: 5,
   },
   {
     id: 3,
-    name: "Lethium Frenci",
-    designation: "Founder @Lineicons",
+    name: "----------",
+    designation: "----------",
     content:
-      "Our members are so impressed. It's intuitive. It's clean. It's distraction free. If you're building a community.",
-    image: "/images/testimonials/auth-03.png",
+      "Technology should simplify, not complicate. Our tailored IT solutions provide smooth integration, enhanced security, and long-term reliability.",
+    image: "",
     star: 5,
   },
 ];
